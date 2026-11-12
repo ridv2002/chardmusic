@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.ridv2002.chardmusic.desktop.in
+data/io.github.ridv2002.chardmusic.metainfo.xml.in
+data/io.github.ridv2002.chardmusic.gschema.xml
+src/window.ui

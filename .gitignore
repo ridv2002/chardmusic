@@ -1,0 +1,33 @@
+
+# Rust / Cargo
+/target/
+**/*.rs.bk
+*.pdb
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDEs e editores
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# GNOME Builder
+.build/
+.flatpak-builder/

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Chardmusic
+Exec=chardmusic
+Icon=io.github.ridv2002.chardmusic
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
