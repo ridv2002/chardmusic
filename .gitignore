@@ -31,3 +31,6 @@ Thumbs.db
 # GNOME Builder
 .build/
 .flatpak-builder/
+
+
+io.github.ridv2002.chardmusic.json
